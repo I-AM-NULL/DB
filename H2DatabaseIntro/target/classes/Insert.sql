@@ -1,0 +1,1 @@
+INSERT INTO item VALUES(1,'sai',10.10);
